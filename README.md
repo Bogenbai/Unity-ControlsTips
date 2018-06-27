@@ -18,7 +18,7 @@ This package allows you to create Zelda: BOTW style UI controls tips.
 ## How to use it?
 
 Now, when you've added *ControlsTips ScrollView* GameObject into your scene, you can simply call `ShowTip()` and `HideTip()` methods in your scripts.
-*ControlsTips* is public static class, so you can call it like this:
+*ControlsTips* is singleton, so you can call it like this:
 
 *Example:*
 ```
