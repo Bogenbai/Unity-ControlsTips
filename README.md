@@ -1,15 +1,16 @@
 # Controls Tips
 This package allows you to create Zelda: BOTW style UI controls tips.
 
-![alt text](https://cdn.discordapp.com/attachments/428973249502642208/461553402065715209/unknown.png)
+![image](https://github.com/Bogenbai/Unity-ControlsTips/assets/26659946/3d524fb1-c801-4030-9271-bb7231b2d79d)
 
 ## Installing
 1. Install ControlsTips.unitypackage into your project.
 
 2. Move *ControlsTips ScrollView* from Prefabs folder into your canvas in your scene.
 
-3. Configure tips list in component script  on *Controls Tips ScrollView* GameObject. 
-![alt text](https://cdn.discordapp.com/attachments/428973249502642208/461557183822168084/unknown.png)
+3. Configure tips list in component script  on *Controls Tips ScrollView* GameObject.
+![image](https://github.com/Bogenbai/Unity-ControlsTips/assets/26659946/be17ff41-436b-4f58-8d33-2486d20f37e9)
+
 
 * *Name* - Key for you to call the methods for actions with a specific tip.
 * *Key Image* - Image of the key to be displayed on the screen.
